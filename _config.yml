@@ -1,6 +1,7 @@
 name: wonder
 favicon: null
 layout_spectrum: 0.34173925244249403
+typography_spectrum: 0.5804682036396116
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: follow
     item: null
     url: null
-typography_spectrum: 0.5804682036396116
